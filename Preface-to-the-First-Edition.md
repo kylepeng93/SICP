@@ -1,0 +1,5 @@
+(1)First,we want to establish the idea that a computer language is not just a way of getting a computer to perform operations but rather than it is a novel formal medium for expressing ideas about methodology.Thus,programs must be written for people to read and only incidentally for machines to execute.
+Second,we believe that the essential material to be addressed by a subject at this level is not the syntax of particular programming-language constructs,nor clever algorithms for computing particular functions effciently,nor even the mathematical analysis of algorithms and foundations of computing,but the techniques used to control the intellectual complexity of large software systems.
+首先，我们想要让大家建立这样一种思想，计算机语言不仅仅是一种让计算机去执行指令的一种方式，它更应该
+是一种新型且正式的一种媒介，让我们能够表达关于方法论的想法。因此，程序必须要以一种能够让人容易理解的方式去编写，而附带的才是让机器能够去执行它。
+第二点：我们相信一门这种级别的课程需要要向读者传达的绝不会是某一种特定的编程语言结构，也不会是某种高明的被用来有效完成某种特定功能的算法，甚至也不是对某个算法进行数学上的分析和计算基础的讲解，而是教给大家用来有效控制大型软件系统的复杂性的知识和技能。
